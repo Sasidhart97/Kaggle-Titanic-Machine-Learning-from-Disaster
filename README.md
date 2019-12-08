@@ -2,6 +2,8 @@
 
 Link to participate in competition:https://www.kaggle.com/c/titanic/overview
 
+Link to my Kernel: https://www.kaggle.com/sasidharturaga/feature-engineering-catboost-classifier-80-acc
+
 The data has been split into two groups:
 
 training set (train.csv)
