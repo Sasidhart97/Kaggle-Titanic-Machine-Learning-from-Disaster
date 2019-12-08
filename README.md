@@ -1,5 +1,6 @@
 # Kaggle-Titanic-Machine-Learning-from-Disaster
 
+Link to participate in competition:https://www.kaggle.com/c/titanic/overview
 The data has been split into two groups:
 
 training set (train.csv)
